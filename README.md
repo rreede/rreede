@@ -1,6 +1,8 @@
 Hi there 👋
 
+I'm currently open to front-end webdevelopment jobs.
 
+My specialties are HTML, CSS, JavaScript and React.
 
 <!--
 **rreede/rreede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
