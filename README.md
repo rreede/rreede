@@ -7,6 +7,9 @@ I'm currently open to front-end web development jobs.
 
 ⚡ Fun fact: I have a college degree in Applied Informatics from Tallinn University, where I studied web design/graphic design and web development.
 
+<h2>Contact me:</2>
+
+
 <!--
 **rreede/rreede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
