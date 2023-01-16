@@ -10,9 +10,9 @@ My name is Rene and my specialties are  <strong>HTML, CSS, JavaScript </strong>a
 
 🔭 You can learn more about me on my website: https://rreede.github.io/
 
-<h2> 📫 Contact me:</2>
+<h2> 📫 Contact me:</h2>
 
-LinkedIn:
+<h3>LinkedIn:</h3>
 www.linkedin.com/in/rene-reede
 
 
