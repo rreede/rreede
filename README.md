@@ -1,4 +1,4 @@
-Hi there 👋
+<h2>Hi there 👋</h2>
 
 My name is Rene and my specialties are HTML, CSS, JavaScript and React. 
 I'm currently open to front-end web development jobs.
