@@ -12,6 +12,11 @@ My name is Rene and my specialties are  <strong>HTML, CSS, JavaScript </strong>a
 
 <h2> 📫 Contact me:</2>
 
+LinkedIn:
+www.linkedin.com/in/rene-reede
+
+
+
 
 <!--
 **rreede/rreede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
