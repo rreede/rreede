@@ -1,10 +1,11 @@
 Hi there 👋
 
-I'm currently open to front-end webdevelopment jobs.
+My name is Rene and my specialties are HTML, CSS, JavaScript and React. 
+I'm currently open to front-end web development jobs.
 
-My specialties are HTML, CSS, JavaScript and React.
+🌱 I’m currently learning React and Javascript in more depth
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+⚡ Fun fact: I have a college degree in Applied Informatics from Tallinn University, where I studied web design/graphic design and web development.
 
 <!--
 **rreede/rreede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
