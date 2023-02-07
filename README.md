@@ -1,10 +1,10 @@
 <h2>Hi there 👋</h2>
 
-My name is Rene and my specialties are  <strong>HTML, CSS, JavaScript </strong>and <strong>Angular</strong>. 
+My name is Rene and my specialties are  <strong>HTML, CSS, JavaScript </strong>and <strong>ReactJS</strong>. 
 
 💬 I'm currently open to front-end web development jobs.
 
-🌱 I’m currently learning Angular in more depth.
+🌱 I’m currently learning >ReactJS in more depth.
 
 ⚡ Fun fact: I have a college degree in Applied Informatics from Tallinn University, where I studied web design/graphic design and web development.
 
