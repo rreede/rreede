@@ -1,6 +1,6 @@
 <h2>Hi there 👋</h2>
 
-My name is Rene and my specialties are  <strong>HTML, CSS, JavaScript </strong>
+My specialties are <strong>HTML, CSS, JavaScript </strong>
 
 💬 I'm currently open to front-end web development jobs.
 
