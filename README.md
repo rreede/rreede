@@ -4,7 +4,7 @@ My specialties are <strong>HTML, CSS, JavaScript </strong>
 
 💬 I'm currently open to front-end web development jobs.
 
-🌱 I’m currently learning ReactJS in more depth.
+🌱 I’m currently learning Javascript and ReactJS in more depth.
 
 ⚡ Fun fact: I have a college degree in Applied Informatics from Tallinn University, where I studied web design/graphic design and web development.
 
