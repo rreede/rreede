@@ -8,7 +8,7 @@ My specialties are <strong>HTML, CSS, JavaScript </strong>
 
 🔭 You can learn more about me and my projects on my website: https://rreede.github.io/
 
-💬 I'm currently open to a front-end web development job.
+💬 I'm currently open to front-end web development work.
 
 <h2> 📫 Contact me:</h2>
 
