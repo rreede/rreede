@@ -1,10 +1,10 @@
 <h2>Hi there 👋</h2>
 
-My specialties are <strong>HTML, CSS, JavaScript </strong>
+My specialties are <strong>HTML, CSS, JavaScript and ReactJS. </strong>
 
-🌱 I’m currently learning Javascript and ReactJS in more depth.
+🌱 I’m currently focusing on improving my Javascript and ReactJS skills.
 
-⚡ Fun fact: I have a college degree in Applied Informatics from Tallinn University, where I studied web design/graphic design and web development.
+⚡ Fun fact: I have a college degree in Applied Informatics from Tallinn University, where I studied web development, web design and graphic design.
 
 🔭 You can learn more about me and my projects on my website: https://rreede.github.io/
 
