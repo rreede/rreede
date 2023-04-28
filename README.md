@@ -2,7 +2,7 @@
 
 My specialties are <strong>HTML, CSS, JavaScript and ReactJS. </strong>
 
-🌱 I’m currently focusing on improving my PHP/MySQL, Javascript and ReactJS skills.
+🌱 I’m currently focusing on improving my Javascript, ReactJS and PHP/MySQL skills.
 
 ⚡ Fun fact: I have a college degree in Applied Informatics from Tallinn University, where I studied web development, web design and graphic design.
 
