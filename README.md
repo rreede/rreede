@@ -1,8 +1,8 @@
 <h2>Hi there 👋</h2>
 
-My specialties are <strong>HTML, CSS, and PHP (Drupal, Wordpress) </strong>
+My specialties are <strong>HTML, CSS, PHP (Wordpress) and JavaScript (React JS) </strong>
 
-🌱 I’m currently focusing on improving my OOP PHP skills and Drupal/Wordpress skills.
+🌱 I’m currently focusing on improving my React JS and Wordpress development skills.
 
 ⚡ Fun fact: I have a college degree in Applied Informatics from Tallinn University, where I studied web development, web design and graphic design.
 
