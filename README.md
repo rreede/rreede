@@ -1,6 +1,6 @@
 <h2>Hi there 👋</h2>
 
-My specialties are <strong>HTML, CSS, and JavaScript (React JS), I also have experience with PHP </strong>
+My specialties are <strong>HTML, CSS, and JavaScript (React JS, NodeJS, Express), I also have experience with PHP/MySQL </strong>
 
 🌱 I’m currently focusing on improving my JavaScript and React JS skills.
 
